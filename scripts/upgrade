@@ -12,6 +12,11 @@ ynh_setup_source --dest_dir="$install_dir" --full_replace
 
 mkdir "$install_dir/.build"
 mv $install_dir/* "$install_dir/.build"
+mv "$install_dir/.github" "$install_dir/.build"
+ynh_safe_rm "$install_dir/.env"
+mv "$install_dir/.env.production" "$install_dir/.build"
+mv "$install_dir/.gitattributes" "$install_dir/.build"
+mv "$install_dir/.gitignore" "$install_dir/.build"
 chown -R "$app:$app" "$install_dir/.build"
 
 #=================================================
