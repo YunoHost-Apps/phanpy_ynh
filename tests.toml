@@ -7,3 +7,5 @@ test_format = 1.0
     # ------------
     # Tests to run
     # ------------
+
+    test_upgrade_from.eaade2c8a0a49167eff8e2fa70478d4aafd106af.name = "Upgrade from 20251108~ynh3"
