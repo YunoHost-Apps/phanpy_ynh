@@ -74,10 +74,12 @@ arbitrary-limitations.en = "(Optional) In-line translations feature depends on 3
     type = "string"
     default = "https://github.com/cheeaun/phanpy/blob/main/PRIVACY.MD"
 
-    [install.phanpy_default_lang]
-    ask.en = "Default language"
-    type = "string"
-    default = "en"
+    [install.language]
+    ask.en = "Choose the application language"
+    ask.fr = "Choisissez la langue de l'application"
+    type = "select"
+    choices = ["fr", "en"]
+    default = "fr"
 
     [install.phanpy_referrer_policy]
     ask.en = "Referrer policy for the site"
