@@ -12,7 +12,7 @@ Minimalistic opinionated Fediverse ⁂ web client
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://phanpy.social/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://phanpy.social/)
-[![Version: 20260201~ynh1](https://img.shields.io/badge/Version-20260201~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/phanpy/)
+[![Version: 20260225~ynh1](https://img.shields.io/badge/Version-20260225~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/phanpy/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/phanpy"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
