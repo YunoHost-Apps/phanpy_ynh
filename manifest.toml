@@ -130,4 +130,4 @@ arbitrary-limitations.en = "(Optional) In-line translations feature depends on 3
     main.url = "/"
 
     [resources.nodejs]
-    version = "20"
+    version = "22"
