@@ -20,7 +20,7 @@ demo = "https://phanpy.social/"
 code = "https://github.com/cheeaun/phanpy"
 
 [integration]
-yunohost = '>= 12.1.17'
+yunohost = '>= 12.1.40'
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
