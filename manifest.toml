@@ -9,7 +9,7 @@ description.en = "Minimalistic opinionated Fediverse ⁂ web client"
 description.fr = "Client Fediverse ⁂ minimaliste et original"
 description.es = "Cliente minimalista y original para el Fediverso ⁂"
 
-version = "20261009~ynh1"
+version = "20261009~ynh2"
 
 maintainers = ["xmgz", "trendless"]
 
